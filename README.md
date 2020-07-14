@@ -1,7 +1,7 @@
 ARCADE Project
 
 Project description:
-        ARCADE is a 2nd year project at EPITECH. Arcade is a gaming platform that lets user choose a game to play. Games are implemented as dynamic lybraries, loaded at runtime.
+        ARCADE is a 2nd year project at EPITECH. Arcade is a gaming platform that lets user choose a game to play. Games are implemented as dynamic libraries, loaded at runtime.
 
 
 Implementation language:
